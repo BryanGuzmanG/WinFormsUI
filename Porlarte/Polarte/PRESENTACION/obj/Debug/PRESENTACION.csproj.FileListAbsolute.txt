@@ -1,0 +1,11 @@
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.csprojAssemblyReference.cache
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.Login.resources
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.Properties.Resources.resources
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.csproj.GenerateResource.cache
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.pdb
+C:\Users\BRYAN\Documents\Polarte\PRESENTACION\obj\Debug\PRESENTACION.PantallaPrincipal.resources
